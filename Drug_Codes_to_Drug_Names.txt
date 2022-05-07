@@ -1,0 +1,271 @@
+1,1,1-trichloroethane|20837
+6-monoacetyl morphine|606B3
+Acetaldehyde|21404
+Acetaminophen|60130
+Acetone|21506
+Acetyl fentanyl|6041
+Albuterol|68010
+Alcohol , benzyl|6B0B0
+Alcohol, isopropyl|21007
+Alcohol, methyl|21002
+Alcohol, ethyl|21005
+Amantadine|55B20
+Allopurinol|B7020
+Alprazolam|64520
+Aminophylline|69520
+Amitriptyline|62250
+Amlodipine|6023
+Ammonia|110750
+Amobarbital|61350
+Amozicillin|54620
+Amphetamine|65000 
+Ampicillin|54640
+Amyl nitrate|81530
+Androgen|A0500 
+Antidepressant, NOS|62100 
+Apomorphine|85610 
+Aripiprazole|6026 
+Arsenic|11500 
+Atenolol|80370 
+Aspirin|60320 
+Atomoxetine|6040
+Atracurium|68720
+Atropine|67770  
+Azide|6014 
+AZT|55B60 
+Baclofen|68780 
+Barbital|613BO
+Barbiturate (NOS)|61300 
+Benzene|20705
+Benzodiazepine, NOS|64500 
+Benzoylecgonine|6B722        
+Benztropine|67510 
+Bismuth|12500 
+Brompheniramine|51620
+Bupivacaine|6B010
+Buprenorphine|60A10 
+Bupropion|6016
+Buspirone|64210
+Butabarbital|61370
+Butane|20522                                                                    
+Butyryl fentanyl|6035 
+Cadmium|12600
+Caffeine|65550 
+Calcium|14300 
+Camphor|6B702
+Carbamazepine|61110 
+Carbenicillin|54910 
+Carbon Monoxide/Carboxyhemoglobin|10520 
+Carisoprodol|68790 
+Cephalosporin|53000 
+Chloral hydrate|64220
+Chlordiazepoxide|64530 
+Chloroethane|6B712 
+Chloroform|20821  
+Chlorophene|C2AOC 
+Chlorpheniramine|51630 
+Chlorpromazine (Thorazine)|62910 
+Citalopram (Celexa)|6013
+Clomipramine|6011 
+Clonazepam|64510
+Clonidine|81130 
+Clozapine|6012
+Cocaethylene|6B721
+Cocaine|6B720
+Codeine|60640
+Colchicine|60170 
+Corticosteroid|A0100
+Cyanide|10550       
+Cyclobenzaprine|687C0
+Desipramine|62270
+Dextroamphetamine|65020 
+Dextromethorphan|88130
+Diazepam|64555
+Dicyclomine|677A0
+Difluoroethane|20844 
+Digoxin|80330
+Diltiazem|803A0
+Diphenhydramine|51450 
+Diphenylhydantoin (Dilantin)|61640 
+Disulfuram(Antabuse)|B70AO 
+Donepezil|16027 
+Doxepin|62280 
+Doxylamine|51480 
+Droperidol|63210                                                                        
+Duloxetine|6025 
+EDDP (2-ethylidine-1,5-dimethyl-3,3-diphenylpyrrolidine)|6042 
+Ephedrine|68050 
+Erythromycin|52A00 
+Eszopiclone/zopiclone|6031
+Ethanol|21005 
+Ethyl Acetate|21634 
+Ethyl chloride|6B712 
+Ethylene Glycol|21301
+Ethylone|6039 
+Etizolam|6036 
+Felbamate|6029 
+Fentanyl|60650 
+Flecainide|803FO 
+Fluoxetine|62290 
+Fluvoxamine|6034
+Flurazepam|64550 
+Formaldehyde/Formic acid|21402 
+Freon|20980 
+Furanyl fentanyl|6038 
+Gabapentin|6008 
+Gamma hydroxybuteric acid|16020 
+Gasoline|20280 
+Glue|20005 
+Glutethimide|64260 
+Glyburide|A2440 
+Glycol (NOS)|21300 
+Glycol, ethylene|21301 
+Guaifenesin|88310  
+Haloperidol|63220  
+Halothane|6A112
+Helium|17100
+Heroin|60720 
+Hydralazine|81180 
+Hydrate, chloral|64220 
+Hydrochloric acid|10220 
+Hydrochlorothiazide|72260 
+Hydrocodone|60660 
+Hydrogen Sulfide (H2S gas)|10812 
+Hydromorphone|60670                                                           
+Hydroxychloroquine|56520
+Hydroxyzine|51850 
+Hypnotic or sedative, NOS|64000
+Ibuprofen|603C0
+Imipramine|622A0
+Indomethacin|603D0
+Insulin|A2200 
+Ipecac|85620  
+Iron (NOS)|13000 
+Isobutanol|21018 
+Isoflurane|6A116
+Isoniazid|55260 
+Isopropyl alcohol|21007  
+Ketamine|6A157
+Labetalol|81190  
+Lametrigine (Lamictal)|6001
+Laxative (NOS)|84800 
+Lead (NOS)|13200 
+Levamasole|56A96 
+Levetiracetam (Keppra)|6017 
+Lidocaine|80400 
+Lithium|15400                                                                                               
+Loperamide|84540 
+Lorazepam|64570                                                                                         
+LSD|63A10  
+Lye|10300 
+Magnesium|14800
+MCPP (Chlorophenylpiperizine)|6033 
+MDA (Methylenedioxyamphetamine)|65095
+Meclizine|51860 
+Mepivicaine|6B050 
+Meperidine|60690 
+Meprobamate|64280 
+Mercuric compound (NOS)|13320
+Mescaline|63A30 
+Methadone|606A0 
+Methamphetamine|65050 
+Methane|20511 
+Methanol|21002  
+Methaqualone|64030
+Methocarbamol|687F0 
+Methylenedioxymethamphetamine(MDMA)|65098 
+Metoclopromide|84040 
+Metoprolol|80410   
+Metronidazole|52040
+Mexilitene|6002
+Midazolam (Versed)|64580  
+Mirtazepine|6019
+Mitragynine (Kratom)|6037 
+Morphine|606B0 
+Mushroom poison (NOS)|30900
+Nadolol(Corgard)|80420 
+Naloxone|60D10  
+Nicotine|30384 
+Nitrate, amyl|81530 
+Nitroprusside|81250 
+Nitrous oxide|6A118 
+Nortriptyline|62200 
+NSAID|60300 
+Olanzapine|6000 
+Opioids|60600 
+Orphenadrine|68800 
+Oxazepam|64590  
+Oxcarbazepine (Trileptal)|6015 
+Oxycodone|606D0
+Oxymorphone|606E0 
+Pancuronium|68750  
+Paragoric|606C2 
+Paraquat|23512 
+Parathion|23174  
+Paroxetine|6009 
+Penicillin|54000 
+Pentazocine|60A40   
+Pentobarbital|61390
+Perphenazine|62A30 
+Pesticide (NOS)|23000
+Phencyclidine (PCP)|6A180 
+Phenelzine|62420
+Phenobarbital|61320 
+Phenothiazine (NOS)|62700 
+Phentermine|65080 
+Phenylephrine|860EO 
+Phenylpropanolamine|680F0 
+Phenytoin|61640
+Polyethylene glycol|21307 
+Polyheme (blood substitute)|POLYH 
+Potassium|13500 
+Pregabalin (Lyrica)|6022 
+Procainamide|80440                                                                                                        
+Promethazine|62820
+Propofol|6A156
+Propoxephene|C15FC
+Propranolol|80450
+Protamine sulfate|A6710
+Pseudoephedrine|68100
+Psilocin|63A40 
+Psilocybin|63A41
+Quetiapine|6018
+Quinidine|80460
+Quinine|56550
+Radiopaque medium|B0310
+Risperidone|6010
+Ropinorole|6032
+Salicylate|60311
+Secobarbital|613A0
+Sertraline|6003 
+Sodium chloride|71070 
+Sulfuric acid|10260
+Temazepam|645B0
+Terbutaline|68120 
+Terpine Hydrate|88355
+THC|63A21
+THC (synthetic)|6030 
+Theophylline|69510
+Thioridazine(Mellarit)|62B10
+Thiothixene|63020
+Thrombolytic agent|A7400 
+Tocanide|8048
+Toluene|20711
+Topiramate|6021
+T-PA|A7410
+Tramadol|6004
+Trazadone|622F0
+Triamterene|6005
+Trihexylphenidyl|67550
+Triazolam|64560
+Tricyclic (NOS)|62200
+U-47700|6043
+Unidentified substance|UNIDE
+Urokinase|A7430
+Valproate|61130
+Venlofaxine|6006
+Verapamil|80490
+Water|10120
+Zolpidem|6007
+Zonisamide|6024
+Ziprasidone|6028
