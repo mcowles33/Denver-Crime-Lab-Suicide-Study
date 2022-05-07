@@ -1,0 +1,432 @@
+1,1,1-trichloroethane|Inhalant
+6-monoacetyl morphine|Narcotic Analgesic
+Acetaldehyde|CNS Depressant
+Acetaminophen|Narcotic Analgesic
+Acetone|CNS Depressant
+Acetyl fentanyl|Narcotic Analgesic
+Albuterol|Inhalant 
+Alcohol , benzyl|CNS Depressant
+Alcohol, isopropyl|CNS Depressant
+Alcohol, methyl|CNS Depressant
+Alcohol, ethyl|CNS Depressant
+Amantadine|Other
+Allopurinol|Other
+Alprazolam|CNS Depressant
+Aminophylline|Inhalant
+Amitriptyline|CNS Depressant
+Amlodipine|Other
+Ammonia|Inhalant
+Amobarbital|CNS Depressant
+Amozicillin|Other
+Amphetamine|CNS Stimulant
+Ampicillin|Other
+Amyl nitrate|CNS Depressant
+Androgen|Other
+Antidepressant, NOS|CNS Depressant
+Apomorphine|Other
+Aripiprazole|CNS Depressant 
+Arsenic|Other
+Atenolol|CNS Depressant
+Aspirin|Other
+Atomoxetine|CNS Depressant
+Atracurium|CNS Depressant
+Atropine|Other 
+Azide|Inhalant 
+AZT|Other 
+Baclofen|CNS Depressant
+Barbital|CNS Depressant 
+Barbiturate (NOS)|CNS Depressant  
+Benzene|Inhalant
+Benzodiazepine, NOS|CNS Depressant  
+Benzoylecgonine|CNS Stimulant        
+Benztropine|CNS Depressant
+Bismuth|Other  
+Brompheniramine|Other
+Bupivacaine|Dissociative Anesthetic
+Buprenorphine|Narcotic Analgesic 
+Bupropion|CNS Depressant
+Buspirone|CNS Depressant
+Butabarbital|CNS Depressant
+Butane|Inhalant                                                                     
+Butyryl fentanyl|Narcotic Analgesic 
+Cadmium|Other 
+Caffeine|CNS Stimulant  
+Calcium|Other 
+Camphor|Other 
+Carbamazepine|Other  
+Carbenicillin|Other  
+Carbon Monoxide/Carboxyhemoglobin|Inhalant 
+Carisoprodol|CNS Depressant 
+Cephalosporin|Other 
+Chloral hydrate|CNS Depressant
+Chlordiazepoxide|CNS Depressant 
+Chloroethane|Inhalant 
+Chloroform|Inhalant, CNS Depressant   
+Chlorophene|Other  
+Chlorpheniramine|Other  
+Chlorpromazine (Thorazine)|CNS Depressant 
+Citalopram (Celexa)|CNS Depressant 
+Clomipramine|CNS Depressant  
+Clonazepam|CNS Depressant
+Clonidine|Other  
+Clozapine|CNS Depressant 
+Cocaethylene|CNS Depressant; CNS Stimulant 
+Cocaine|CNS Stimulant
+Codeine|Narcotic Analgesic
+Colchicine|Other  
+Corticosteroid|Other 
+Cyanide|Inhalant        
+Cyclobenzaprine|CNS Depressant
+Desipramine|CNS Depressant 
+Dextroamphetamine|CNS Stimulant  
+Dextromethorphan|Other 
+Diazepam|Other 
+Dicyclomine|Other 
+Difluoroethane|Inhalant  
+Digoxin|Other 
+Diltiazem|Other 
+Diphenhydramine|Other  
+Diphenylhydantoin (Dilantin)|Other  
+Disulfuram(Antabuse)|Other  
+Donepezil|Other  
+Doxepin|CNS Depressant
+Doxylamine|Other  
+Droperidol|CNS Depressant                                                                        
+Duloxetine|CNS Depressant  
+EDDP (2-ethylidine-1,5-dimethyl-3,3-diphenylpyrrolidine)|Other
+Ephedrine|Other  
+Erythromycin|Other  
+Eszopiclone/zopiclone|CNS Depressant 
+Ethanol|CNS Depressant  
+Ethyl Acetate|Other  
+Ethyl chloride|Inhalant  
+Ethylene Glycol|Other 
+Ethylone|CNS Stimulant  
+Etizolam|CNS Depressant  
+Felbamate|Other  
+Fentanyl|Narcotic Analgesic  
+Flecainide|Other  
+Fluoxetine|CNS Depressant 
+Fluvoxamine|CNS Depressant 
+Flurazepam|CNS Depressant 
+Formaldehyde/Formic acid|Other  
+Freon|Inhalant 
+Furanyl fentanyl|Narcotic Analgesic 
+Gabapentin|Other 
+Gamma hydroxybuteric acid|CNS Depressant
+Gamma-Hydroxybutyric Acid|CNS Depressant
+Gasoline|Inhalant
+Glue|Inhalant  
+Glutethimide|CNS Depressant  
+Glyburide|Other 
+Glycol (NOS)|Other  
+Glycol, ethylene|Other  
+Guaifenesin|Other   
+Haloperidol|CNS Depressant  
+Halothane|Dissociative Anesthetic
+Helium|Inhalant 
+Heroin|Narcotic Analgesic  
+Hydralazine|Other  
+Hydrate, chloral|CNS Depressant  
+Hydrochloric acid|Other 
+Hydrochlorothiazide|Other  
+Hydrocodone|Narcotic Analgesic  
+Hydrogen Sulfide (H2S gas)|Inhalant 
+Hydromorphone|Narcotic Analgesic                                                           
+Hydroxychloroquine|Other 
+Hydroxyzine|Other  
+Hypnotic or sedative, NOS|CNS Depressant 
+Ibuprofen|Other 
+Imipramine|CNS Depressant 
+Indomethacin|Other 
+Insulin|Other 
+Ipecac|Other   
+Iron (NOS)|Other 
+Isobutanol|CNS Depressant  
+Isoflurane|Dissociative Anesthetic 
+Isoniazid|Other  
+Isopropyl alcohol|Other  
+Ketamine|Dissociative Anesthetic
+Labetalol|Other  
+Lametrigine (Lamictal)|Other
+Laxative (NOS)|Other 
+Lead (NOS)|Other
+Levamasole|Other  
+Levetiracetam (Keppra)|Other 
+Lidocaine|Dissociative Anesthetic 
+Lithium|CNS Depressant                                                                                               
+Loperamide|Other  
+Lorazepam|CNS Depressant                                                                                          
+LSD|Hallucinogen  
+Lye|Other  
+Magnesium|Other
+MCPP (Chlorophenylpiperizine)|CNS Stimulant 
+MDA (Methylenedioxyamphetamine)|Hallucinogen 
+Meclizine|Other  
+Mepivicaine|Dissociative Anesthetic  
+Meperidine|Narcotic Analgesic  
+Meprobamate|CNS Depressant 
+Mercuric compound (NOS)|Other
+Mescaline|Hallucinogen 
+Methadone|Narcotic Analgesic 
+Methamphetamine|CNS Stimulant 
+Methane|Inhalant  
+Methanol|CNS Depressant  
+Methaqualone|CNS Depressant
+Methocarbamol|CNS Depressant 
+Methylenedioxymethamphetamine(MDMA)|Hallucinogen 
+Metoclopromide|Other
+Metoprolol|Other   
+Metronidazole|Other
+Mexilitene|Other 
+Midazolam (Versed)|CNS Depressant  
+Midazolam|CNS Depressant  
+Mirtazepine|CNS Depressant
+Mitragynine (Kratom)|Narcotic Analgesic  
+Morphine|Narcotic Analgesic
+Mushroom poison (NOS)|Hallucinogen 
+Nadolol(Corgard)|Other 
+Naloxone|Other   
+Nicotine|CNS Stimulant  
+Nitrate, amyl|Inhalant  
+Nitroprusside|Other  
+Nitrous oxide|Inhalant  
+Nitrogen|Inhalant
+Nortriptyline|CNS Depressant  
+NSAID|Other  
+Olanzapine|CNS Depressant  
+Opioids|Narcotic Analgesic 
+Orphenadrine|CNS Depressant  
+Oxazepam|CNS Depressant   
+Oxcarbazepine (Trileptal)|Other  
+Oxycodone|Narcotic Analgesic 
+Oxymorphone|Narcotic Analgesic  
+Pancuronium|CNS Depressant 
+Paragoric|Narcotic Analgesic  
+Paraquat|Other  
+Parathion|Other  
+Paroxetine|CNS Depressant  
+Penicillin|Other 
+Pentazocine|Narcotic Analgesic    
+Pentobarbital|CNS Depressant
+Perphenazine|CNS Depressant  
+Pesticide (NOS)|Other
+Phencyclidine (PCP)|Dissociative Anesthetic
+Phencyclidine|Dissociative Anesthetic
+Phenelzine|CNS Depressant 
+Phenobarbital|CNS Depressant  
+Phenothiazine (NOS)|CNS Depressant  
+Phentermine|CNS Stimulant  
+Phenylephrine|Other  
+Phenylpropanolamine|Other  
+Phenytoin|Other 
+Polyethylene glycol|Other  
+Polyheme (blood substitute)|Other  
+Potassium|Other
+Pregabalin (Lyrica)|Other  
+Procainamide|Other                                                                         
+Promethazine|Narcotic Analgesic 
+Propofol|CNS Depressant 
+Propoxephene|Narcotic Analgesic 
+Propoxyphene|Narcotic Analgesic 
+Propranolol|Other 
+Protamine sulfate|Other
+Pseudoephedrine|Other 
+Psilocin|Hallucinogen
+Psilocybin|Hallucinogen
+Quetiapine|CNS Depressant 
+Quinidine|Other 
+Quinine|Other 
+Radiopaque medium|Other
+Risperidone|CNS Depressant 
+Ropinorole|Other
+Salicylate|Other 
+Secobarbital|CNS Depressant 
+Sertraline|CNS Depressant 
+Sodium chloride|Other 
+Sulfuric acid|Other
+Temazepam|CNS Depressant 
+Terbutaline|Other 
+Terpine Hydrate|Other
+THC|Cannabis
+THC (synthetic)|Cannabis
+11-Hydroxy THC|Cannabis
+Theophylline|Other 
+Thioridazine(Mellarit)|CNS Depressant 
+Thiothixene|CNS Depressant
+Thrombolytic agent|Other 
+Tocanide|Other
+Toluene|Inhalant
+Topiramate|Other
+T-PA|Other
+Tramadol|Narcotic Analgesic
+Trazadone|CNS Depressant
+Triamterene|Other
+Trihexylphenidyl|Other 
+Triazolam|CNS Depressant
+Tricyclic (NOS)|CNS Depressant 
+U-47700|Narcotic Analgesic
+Unidentified substance|Other 
+Urokinase|Other
+Valproate|Other
+Venlofaxine|CNS Depressant
+Verapamil|Other 
+Water|Other
+Zolpidem|CNS Depressant 
+Zonisamide|Other
+Ziprasidone|CNS Depressant
+0|Other
+51456|Other 
+60598|Other 
+606|Other
+616B0|Other
+62259|Other
+622C0|Other 
+62550|Other 
+65060|Other
+65490|Other
+680|Other
+6870|Other
+687C0|Other
+6B7220|Other
+Alcohol|CNS Depressant 
+Ambien|CNS Depressant
+Amitripyline|CNS Depressant 
+Amitryptyline|CNS Depressant 
+Amytriptyline|CNS Depressant 
+Amytripyline|CNS Depressant 
+Buproprion|CNS Depressant 
+Butalbital|CNS Depressant 
+Carbon Monoxide|Inhalant
+Monoxide|Inhalant
+Ethyl Alcohol|CNS Depressant 
+Fluoxetin|CNS Depressant 
+Mirtazapine|CNS Depressant
+Mixed (Unknown)|Other 
+Mixed|Other 
+Nordiazepam|CNS Depressant
+Other|Other
+Propoxyphene|Narcotic Analgesic 
+Trazodone|CNS Depressant  
+Venlafaxine|CNS Depressant
+XXXXXX|Other 
+Unknown|Other
+Cannabinoids|Cannabis
+Cannabinoid|Cannabis
+thc carboxylic acid|Cannabis
+Tetrahydrocannabinol|Cannabis
+687CO|Other
+Cotinine|CNS Stimulant
+Propanolol|Other
+Valproic Acid|Other
+Citalopram|CNS Depressant
+Norpropoxyphene|Narcotic Analgesic
+Naproxen|Other
+Creatinine|Other
+Chloride|Other
+Glucose|Other
+Sodium|Other
+Alpha-Hydroxyalprazolam|CNS Depressant
+Methylenedioxy-Methamphetamine|Hallucinogen
+O-Desmethyltramadol|Narcotic Analgesic
+Norflunitrazepam|CNS Depressant
+Isopropanol|Other
+Bultabital|CNS Depressant
+Isobutane|Inhalant
+Hydroxybupropion|CNS Depressant
+Oxcarbazepine Metabolite|Other
+Oxcarbazepine|Other
+Benzodiazepine|CNS Depressant
+Benzodiazepines|CNS Depressant
+Delta-9-THC-Carboxylic Acid|Cannabis
+Delta-9-THC Carboxylic Acid|Cannabis
+Esomeprazole|Other
+Salicylates|Other
+Amlopidine|Other
+Beta-Phenethylamine|CNS Stimulant
+Citalopram/Escitalopram|CNS Depressant
+Theobromine|CNS Stimulant
+Buspirine|CNS Depressant
+Delta-9 THC|Cannabis
+Delta-9 Carboxy THC|Cannabis
+Carboxy THC|Cannabis
+BAC|CNS Depressant
+Lamotrigine|Other
+Etomidate|Dissociative Anesthetic
+Dihydrocodeine/Hydrocodol|Narcotic Analgesic
+Dihydrocodine/Hydrocodol|Narcotic Analgesic
+Dihydrocodeine|Narcotic Analgesic
+dihydrcodeine/Hydrocodol|Narcotic Analgesic
+Carboxyhemoglobin|Inhalant 
+7-Amino-Clonazepam|CNS Depressant
+7-Amino Clonazepam|CNS Depressant
+Norpseudoephedrine|Other
+Iron|Other
+Blood Alcohol Concentration (BAC)|CNS Depressant
+Blood Alcohol Concentration (BAC|CNS Depressant
+MDMA|Hallucinogen
+Urea Nitrogen|Other
+Norfentanyl|Narcotic Analgesic
+Boldenone|Other
+Estazolam|CNS Depressant
+Norfluoxetine|CNS Depressant
+Fluoxetine |CNS Depressant
+Norcyclobenzaprine|CNS Depressant
+EDDP|Narcotic Analgesic
+Temazapam|CNS Depressant
+Tizanidine|CNS Depressant
+Hydroxytriazolam|CNS Depressant
+Desmethylmirtazapine|CNS Depressant
+Aectone|CNS Depressant
+Norbuprenorphine|Narcotic Analgesic
+Prochlorperazine|CNS Depressant
+Desmethylmirtazapine|CNS Depressant
+O-Desmethylvenlafaxine|CNS Depressant
+11-Hydroxy Delta-9 THC|Cannabis
+Mercury|Other
+(Cocaine Metabolite)|CNS Stimulant
+(Marijuana Metabolite)|Cannabis
+(Marijuana Metabolites)|Cannabis
+Codiene|Narcotic Analgesic
+Levamisole|Other
+Delta-9-Tetrahydrocannabinol|Cannabis
+Norpropxyphene|Narcotic Analgesic
+Citalpram (Celexa)|CNS Depressant
+Hydroxyethylflurazepam|CNS Depressant
+Desmethylsertraline|CNS Depressant
+Citalopram / Escitalopram|CNS Depressant
+Etrhanol|CNS Depressant
+Marijuana Metabolite|Cannabis
+marijuanas|Cannabis
+marijuana|Cannabis
+Opiates|Narcotic Analgesic
+Escitalopram|CNS Depressant
+Desalkylflurazepam|CNS Depressant
+Methylene-Dioxymethamphetamine|Hallucinogen
+Butabital|CNS Depressant
+Noverapamil|Other
+(Propoxyphene Metabolite)|Narcotic Analgesic
+Flunitrazapam|CNS Depressant
+10-Hydroxycarbazepine|CNS Depressant
+Dextro / Levo Methorphan|Narcotic Analgesic
+Gabapentin (Blood)|Other
+6-Monoacetylmorphine|Narcotic Analgesic
+Levetiracetam|Other
+Phendimetrazine|CNS Stimulant
+Testosterone/Epitestosterone Ration|Other
+Meprobamte|CNS Depressant
+Aceaminophen|Narcotic Analgesic
+VUN|Other
+Norprophoxyphene|Narcotic Analgesic
+JWH-022|Cannabis
+JWH-122|Cannabis
+Desmethylcitalopram|CNS Depressant
+Methylephedrine|Other
+Trimethoprim|Other
+Loratadine|Other
+1919FL|Other
+Flunitraepam|CNS Depressant
+9546FL|Other
+Carboxylic acid|Other
+Carbon Dioxide|Inhalant
+Glipizide|Other
